@@ -59,6 +59,9 @@ print("\nPredictions:\n", Y_pred[:5])
 
 ![Screenshot 2024-09-19 204350](https://github.com/user-attachments/assets/8896a031-1150-4cc0-83c2-86819a016b06)
 
+![image](https://github.com/user-attachments/assets/ac0d88c0-54aa-4948-bb8c-4db8af0c069a)
+
+
 ![Screenshot 2024-09-19 204354](https://github.com/user-attachments/assets/3fcfec4a-e947-4c15-8d08-53a3f7c832e3)
 
 
